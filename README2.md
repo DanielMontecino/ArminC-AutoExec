@@ -49,7 +49,7 @@ We are using [Statoscope] for this analysis.
 [GitHub action]: https://github.com/andresz1/size-limit-action
 [Statoscope]:    https://github.com/statoscope/statoscope
 [cult-img]:      http://cultofmartians.com/assets/badges/badge.svg
-[cult]:          http://cultofmartians.com/tasks/size-limit-config.html
+[cult]:          https://www.nvidia.com/gtc/session-catalog/?tab.scheduledorondemand=1583520458947001NJiE#/
 
 ## Who Uses Size Limit
 
