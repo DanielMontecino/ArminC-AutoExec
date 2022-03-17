@@ -23,12 +23,13 @@ contenido de GTC durante 30 días después del evento.
 **Si tiene alguna pregunta, contáctenos en GTC_Content@nvidia.com**
 
 <p align="center">
-  <img src="./src/img2.png" alt="Size Limit CLI" width="120">
+     <a href="https://reg.rainfocus.com/flow/nvidia/gtcspring2022/registration?ncid=pa-srch-goog-496312">
+          <img src="./src/img2.png" alt="Size Limit CLI" width="720">
+     </a>
 </p>
 
 [cult]: https://www.nvidia.com/gtc/session-catalog/?tab.scheduledorondemand=1583520458947001NJiE#/
 
-[cult]: https://www.nvidia.com/gtc/session-catalog/?tab.scheduledorondemand=1583520458947001NJiE#/
 
 ## Who Uses Size Limit
 
