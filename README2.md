@@ -1,7 +1,7 @@
 # Size Limit [![Cult Of Martians][cult-img]][cult]
 
 <img src="https://www.profesionalreview.com/wp-content/uploads/2020/04/Nvidia-GTC-2020-tendra-lugar-el-14-de-mayo-con-presencia-de-Ampere.jpg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+     alt="Size Limit logo by Anton Lovchikov" width="240" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
