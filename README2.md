@@ -1,6 +1,6 @@
 # Size Limit [![Cult Of Martians][cult-img]][cult]
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nvidia.com%2Fes-la%2F&psig=AOvVaw1RxAAkngvDgUod5sfCZ0gk&ust=1647611358026000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKim0umkzfYCFQAAAAAdAAAAABAD" align="right"
+<img src="https://www.profesionalreview.com/wp-content/uploads/2020/04/Nvidia-GTC-2020-tendra-lugar-el-14-de-mayo-con-presencia-de-Ampere.jpg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
