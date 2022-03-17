@@ -24,7 +24,7 @@ contenido de GTC durante 30 días después del evento.
 
 <p align="center">
      <a href="https://reg.rainfocus.com/flow/nvidia/gtcspring2022/registration?ncid=pa-srch-goog-496312">
-          <img src="./src/img2.png" alt="Size Limit CLI" width="720">
+          <img src="./src/img2.png" alt="Size Limit CLI" width="1080">
      </a>
 </p>
 
