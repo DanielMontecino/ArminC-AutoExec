@@ -1,15 +1,32 @@
-# Nvidia GTC Conference [![sessoin catalog][cult-img]][cult]
+# Nvidia GTC Conference [![session catalog][cult-img]][cult]
 
 
 <img src="https://www.profesionalreview.com/wp-content/uploads/2020/04/Nvidia-GTC-2020-tendra-lugar-el-14-de-mayo-con-presencia-de-Ampere.jpg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="360" height="178">
 
-Resumen de presentaciones interesantes de conferencia Nvidia los dias 21 a 24 de Marzo 2022
+NVIDIA GTC es una conferencia global de IA para desarrolladores que reúne a desarrolladores, ingenieros, investigadores,
+inventores y profesionales de TI. Los temas se centran en inteligencia artificial (IA), gráficos por computadora, 
+ciencia de datos, aprendizaje automático y máquinas autónomas.
 
+NVIDIA GTC regresa del **21 al 24 de marzo de 2022** con una tonelada de contenido y oradores nuevos y emocionantes.
+
+
+Todo es gratis para asistir. La conferencia presenta una exhibición de lo último en desarrollo de IA con el 
+discurso de apertura el 22 de marzo, a cargo del CEO y fundador de NVIDIA, Jensen Huang. Toda la semana tiene
+de más de 900 sesiones que cubren vehículos autónomos, IA, supercomputación y más.
+
+**El registro es hasta antes de la medianoche PST del jueves 24 de marzo de 2022**. Obtendrá acceso completo a todo el 
+contenido de GTC durante 30 días después del evento. 
+
+
+
+**Si tiene alguna pregunta, contáctenos en GTC_Content@nvidia.com**
 
 <p align="center">
-  <img src="./src/nvidia.jpg" alt="Size Limit CLI" width="120">
+  <img src="./src/img2.png" alt="Size Limit CLI" width="120">
 </p>
+
+[cult]: https://www.nvidia.com/gtc/session-catalog/?tab.scheduledorondemand=1583520458947001NJiE#/
 
 [cult]: https://www.nvidia.com/gtc/session-catalog/?tab.scheduledorondemand=1583520458947001NJiE#/
 
