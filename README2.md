@@ -1,4 +1,4 @@
-# Nvidia GTC Conference [![session catalog]][cult]
+# Nvidia GTC Conference 
 
 
 <img src="https://www.profesionalreview.com/wp-content/uploads/2020/04/Nvidia-GTC-2020-tendra-lugar-el-14-de-mayo-con-presencia-de-Ampere.jpg" align="right"
