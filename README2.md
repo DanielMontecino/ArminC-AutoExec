@@ -32,9 +32,9 @@ contenido de GTC durante 30 días después del evento.
 
 ## Indice
 
-1 Natural Lenguage processing (NLP)
-2 Deep Learning
-3 Jetson
+1. Natural Lenguage processing (NLP)
+2. Deep Learning
+3. Jetson
 
 
 
