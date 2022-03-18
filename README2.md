@@ -51,9 +51,10 @@ modelo es el más adecuado para un caso de uso particular en función de las mé
 y los recursos disponibles.
   
 - [Link de acceso](https://www.nvidia.com/gtc/session-catalog/?ncid=em-even-599637&mkt_tok=MTU2LU9GTi03NDIAAAGDCQVhcx-WP4kU_zHRbnXQjM18hyk3_Q8Cx99DTRvxwXsjwYEb5NeL_ZXlnFlT41Qhh-2UwKbpFO7U8FIgHIJ8lgleZhO3EZzOYa7DkMeUBypMCIPQgw&tab.day=20220320&search.primarytopic=16246413645860062Bum&search.primarytopic=16246413645860432IyF&search.primarytopic=16246413645860482iUS&search.primarytopic=16246413645860132WWK&search.primarytopic=162464136458601222RK&search.primarytopic=16246413645860102sI4&search.primarytopic=1626470117021001aYK9&search.primarytopic=16246413645860202msC&search.primarytopic=16246413645860212MnD&search.primarytopic=16246413645860222JUI#/session/1642539479394001Ujuj)
-</details>
 - [Link de acceso](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1641595052951001RA8J)
 - [Link de acceso](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/16383079137440019GJ6)
+</details>
+
 
 
 <details><summary><b>Bridging the Gap Between Basic Neural Language Models, Transformers, and Megatron</b></summary>
@@ -215,26 +216,26 @@ y los recursos disponibles.
 
 ## A revisar despues
 
-[Lab para acelerar ML system components](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220323&search.primarytopic=16246413645860152cF1#/session/1639692289352001CUFS)
-[Aplicaciones de AI en deteccion de anomalias](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/16383079139180019jq9)
-[Mantenimiento predictivo](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1641595053216001R96K)
-[sistema recomendador DL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638047853433001KoWn)
-[sistema recomendador con Merlin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1634769053862001L2XY)
-[elegir GPU en AWS](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1642709374838001J0pj)
+- [Lab para acelerar ML system components](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220323&search.primarytopic=16246413645860152cF1#/session/1639692289352001CUFS)
+- [Aplicaciones de AI en deteccion de anomalias](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/16383079139180019jq9)
+- [Mantenimiento predictivo](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1641595053216001R96K)
+- [sistema recomendador DL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638047853433001KoWn)
+- [sistema recomendador con Merlin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1634769053862001L2XY)
+- [elegir GPU en AWS](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1642709374838001J0pj)
 
 ## RL
 
-[nuevo gym para RL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638331324610001KvlV)
-[Gran turismo champioin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1639352867042001iDRi)
+- [nuevo gym para RL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638331324610001KvlV)
+- [Gran turismo champioin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1639352867042001iDRi)
 
 # Otros interesantes
 
-[Intrduccino de Jetson ADX Orin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16388268966250016f1r)
-[Meeting con expertos Fast image proc/augment](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220323&search.primarytopic=16246413645860132WWK#/session/16376889511360018qsQ)
-[creacoin de modelos con TAO](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16467277381420014Yus)
-[TAO para AI con minimo codigo](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1638558655345001OWir)
-[Image retrieval for landmark recognition](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1642070974818001HAFA)
-[Introduccion a vehiculos autonomos](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1643244158271001WkUI)
-[ECG con DL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638778994886001TtkQ)
+- [Intrduccino de Jetson ADX Orin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16388268966250016f1r)
+- [Meeting con expertos Fast image proc/augment](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220323&search.primarytopic=16246413645860132WWK#/session/16376889511360018qsQ)
+- [creacoin de modelos con TAO](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16467277381420014Yus)
+- [TAO para AI con minimo codigo](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1638558655345001OWir)
+- [Image retrieval for landmark recognition](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1642070974818001HAFA)
+- [Introduccion a vehiculos autonomos](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1643244158271001WkUI)
+- [ECG con DL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638778994886001TtkQ)
 
 
