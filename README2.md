@@ -32,13 +32,15 @@ contenido de GTC durante 30 días después del evento.
 
 ## Indice
 
-* Natural Lenguage processing
+1 Natural Lenguage processing (NLP)
+2 Deep Learning
+3 Jetson
 
 
 
 ## Conferencias
 
-### NLP
+### Natural Lenguage processing (NLP)
 
 
 <details><summary><b>Building Transformer-Based Natural Language Processing Applications</b></summary>
@@ -90,7 +92,7 @@ y los recursos disponibles.
 
 
 
-### Deep LEarning
+### Deep Learning
 
 <details><summary><b>The State of PyTorch</b></summary>
 
@@ -158,7 +160,7 @@ y los recursos disponibles.
 </details>
 
 
-## Jetson 
+### Jetson 
 
 <details><summary><b>GTC Session Watch Party: Getting Started with Edge AI on Jetson</b></summary>
 
@@ -214,25 +216,25 @@ y los recursos disponibles.
 
 
 
-## A revisar despues
+### A revisar despues
 
 - [Lab para acelerar ML system components](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220323&search.primarytopic=16246413645860152cF1#/session/1639692289352001CUFS)
 - [Aplicaciones de AI en deteccion de anomalias](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/16383079139180019jq9)
 - [Mantenimiento predictivo](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1641595053216001R96K)
-- [sistema recomendador DL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638047853433001KoWn)
-- [sistema recomendador con Merlin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1634769053862001L2XY)
-- [elegir GPU en AWS](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1642709374838001J0pj)
+- [Sistema recomendador DL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638047853433001KoWn)
+- [Sistema recomendador con Merlin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1634769053862001L2XY)
+- [Elegir GPU en AWS](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1642709374838001J0pj)
 
-## RL
+### RL
 
 - [nuevo gym para RL](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1638331324610001KvlV)
-- [Gran turismo champioin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1639352867042001iDRi)
+- [Gran turismo champion](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/1639352867042001iDRi)
 
-# Otros interesantes
+## Otros interesantes
 
-- [Intrduccino de Jetson ADX Orin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16388268966250016f1r)
+- [Intrduccion de Jetson ADX Orin](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16388268966250016f1r)
 - [Meeting con expertos Fast image proc/augment](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220323&search.primarytopic=16246413645860132WWK#/session/16376889511360018qsQ)
-- [creacoin de modelos con TAO](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16467277381420014Yus)
+- [creacion de modelos con TAO](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220322#/session/16467277381420014Yus)
 - [TAO para AI con minimo codigo](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1638558655345001OWir)
 - [Image retrieval for landmark recognition](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1642070974818001HAFA)
 - [Introduccion a vehiculos autonomos](https://www.nvidia.com/gtc/session-catalog/?search=&tab.day=20220321#/session/1643244158271001WkUI)
