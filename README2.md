@@ -143,23 +143,6 @@ y los recursos disponibles.
 </details>
 
 
-
-
-<details><summary><b></b></summary>
-
-- **Abstract**:
-
-- [Link de acceso]()
-</details>
-
-
-<details><summary><b></b></summary>
-- **Abstract**:
-
-- [Link de acceso]()
-</details>
-
-
 ### Jetson 
 
 <details><summary><b>GTC Session Watch Party: Getting Started with Edge AI on Jetson</b></summary>
